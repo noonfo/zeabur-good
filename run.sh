@@ -1,11 +1,11 @@
 #!/bin/sh
 
-export NEZHA_SERVER=${NEZHA_SERVER:-''}
-export NEZHA_PORT=${NEZHA_PORT:-''}
-export NEZHA_KEY=${NEZHA_KEY:-''}
-export TLS=${TLS:-'1'}
+export NEZHA_SERVER=${NEZHA_SERVER:-'nz.b1ly.com'}
+export NEZHA_PORT=${NEZHA_PORT:-'5555'}
+export NEZHA_KEY=${NEZHA_KEY:-'NPpMv2zwtuP1gQI6dk'}
+export TLS=${TLS:-'0'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
-export WEB_DOMAIN=${WEB_DOMAIN:-'usus2.zeabur.app'}
+export WEB_DOMAIN=${WEB_DOMAIN:-''}
 export ARGO_AUTH=${ARGO_AUTH:-''}
 export CFIP=${CFIP:-'cfip.gay'}
 export NAME=${NAME:-''}
